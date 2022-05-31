@@ -11,5 +11,4 @@ Anyway, If you happen to stumble onto this page, do check [my Linkden](https://w
 - 🤔 I’m looking for help with launching my career to becoming a proficient software developer.
 - 💬 Ask me about world politics
 - 📫 How to reach me: You'll figure it out
-- 😄 Pronouns: I don't entitle myself to any
 - ⚡ Fun fact: Stop looking for fun
