@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Welcome to my Github. 
 
-I'm a software developer. During my job search after my undergraduate studies, I have encountered that it is important to be on GitHub and showcase some projects. So ill be adding my personal, past time and online course/ tutorial work here. Feel free to use it as you wish. :)
+I be adding my personal, past time and online course/ tutorial work here. Feel free to use it as you wish. :)
 
 Anyway, If you happen to stumble onto this page, do check [my Linkden](https://www.linkedin.com/in/naga-k-811374a2/)
 
