@@ -1,9 +1,10 @@
 ### Hi there 👋
-# Welcome to my Github. 
+# Welcome to my Github.
 
-I be adding my personal, past time and online course/ tutorial work here. Feel free to use it as you wish. :)
+ABSTRACTION, I believe in Abstraction. I think the point of computer science is abstraction. 
 
-Anyway, If you happen to stumble onto this page, do check [my Linkden](https://www.linkedin.com/in/naga-k-811374a2/)
+I will be adding my personal, past time and online course/ tutorial work here. Feel free to use it as you wish. :)
+Do check [my Linkden](https://www.linkedin.com/in/naga-k-811374a2/)
 
 - 🔭 I’m currently working on Application Development. I use my free time to work on Deep Learning, Machine Learning and other technologies that I think are useful.
 - 🌱 I’m using Python, C++, Java
