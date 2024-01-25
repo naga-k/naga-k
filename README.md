@@ -2,24 +2,21 @@
 
 I'm passionate about exploring and contributing to various technologies, making the most of my free time. Check out some of my projects:
 
-## Projects:
+## Intrests:
 
-1. **Self Driving using AlexNet**
-   - My undergraduate capstone project, implementing self-driving capabilities with AlexNet.
-
-2. **Backend Technologies Exploration**
+1. **Backend Technologies Exploration**
    - Delving into the world of web development and server-side technologies.
 
-3. **App Development**
+2. **App Development**
    - Building cross-platform mobile applications with Flutter, incorporating modern UI/UX.
   
-4. **Computer Vision and AI**
+3. **Computer Vision and AI**
    - Explore GANs, Transformers, Diffusion, 3D rendering, and other exciting innovations.
 
-5. **GPU Programming**
+4. **GPU Programming**
    - Exploring the parallel computing landscape through GPU programming for accelerated computations and high-performance computing.
 
-6. **Algorithms**
+5. **Algorithms**
    - Passionate about implementing a spectrum of algorithms, both classical and cutting-edge.
 
 ## Tech Stack:
