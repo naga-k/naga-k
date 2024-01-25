@@ -19,6 +19,9 @@ I'm passionate about exploring and contributing to various technologies, making 
 5. **GPU Programming**
    - Exploring the parallel computing landscape through GPU programming for accelerated computations and high-performance computing.
 
+6. **Algorithms**
+   - Passionate about implementing a spectrum of algorithms, both classical and cutting-edge.
+
 ## Tech Stack:
 
 - **Languages:** Python, C++, Java, Dart, JavaScript, ActionScript, etc.
