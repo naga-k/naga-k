@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-I'm passionate about exploring and contributing to various technologies, making the most of my free time. Check out some of my projects:
+I'm passionate about exploring and contributing to various technologies, making the most of my free time.
 
 ## Intrests:
 
