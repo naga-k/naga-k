@@ -28,10 +28,6 @@ I'm passionate about exploring and contributing to various technologies, making 
 
 I'm open to collaborating on various projects, research papers, or anything tech-related. Let's create something amazing together!
 
-## Career Aspirations:
-
-Currently on the path to becoming a proficient software developer, machine learning engineer, data scientist, and researcher. Seeking guidance and collaboration opportunities to enhance my skills and maximize my contribution to this world.
-
 ## Fun Fact:
 
 Stop looking for fun—let's create it through code!
