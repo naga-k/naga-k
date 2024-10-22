@@ -27,9 +27,3 @@ I'm passionate about exploring and contributing to various technologies, making 
 ## Collaboration:
 
 I'm open to collaborating on various projects, research papers, or anything tech-related. Let's create something amazing together!
-
-## Fun Fact:
-
-Stop looking for fun—let's create it through code!
-
-Feel free to explore my work, and if you have any questions or topics you'd like to discuss in-depth, don't hesitate to reach out. Let's make it better together! ⚡
